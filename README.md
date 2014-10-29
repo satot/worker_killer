@@ -9,17 +9,13 @@ check a resque woker periodically and kill it if it lasts more than specific tim
 
 ## Demo
 
-## VS. 
-
-## Requirement
-
 ## Usage
 
 `./worker_killer.sh`
 
 ## Install
 
-## Contribution
+just pull and `chmod 755 worker_killer.sh`
 
 ## Licence
 
@@ -27,4 +23,4 @@ check a resque woker periodically and kill it if it lasts more than specific tim
 
 ## Author
 
-[tcnksm](https://github.com/tcnksm)
+[satot](https://github.com/satot)
